@@ -3,6 +3,9 @@ package com.bridgelabz.generic;
 import org.junit.Test;
 import org.junit.Assert;
 
+import org.junit.Test;
+import org.junit.Assert;
+
 public class MaximumTest {
 	@Test
 	public void intMax() {
